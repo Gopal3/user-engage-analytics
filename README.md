@@ -70,7 +70,7 @@ User Engage Analytics is an AI-powered **user engagement & recommendation system
 ## 🎉 Try It Out!  
 If you'd like a **fully interactive version** of this README, visit:  
 
-👉 **[Live Demo (GitHub Pages)]((https://github.com/Gopal3/user-engage-analytics))** 
+👉 **[Live Demo (GitHub Pages)](https://github.com/Gopal3/user-engage-analytics)**
 
 📌 **Contributions Welcome!** Open a PR or issue if you have ideas for improvements.  
 
